@@ -1,10 +1,16 @@
-# Introduction
+# 介绍
 
-LeetCode simple problems and solutions in JavaScript.
+目前(2019-01-01)， leetCode有243道简单题目。这个仓库将涵盖这些题目并给出JavaScript解答。
 
-By 2019-01-01, LeetCode has 243 simple problems in total. I'am about to solve all this problems and this repository is aimed to record my solutions.
-
-Solved problems list:
-
-
-
+已更新列表：
+* [问题与解答](QA/README.md)
+    * [两数之和](QA/1.md)
+    * [整数反转](QA/2.md)
+    * [回文数](QA/3.md)
+    * [罗马数字转整数](QA/4.md)
+    * [最长公共前缀](QA/5.md)
+    * [有效的括号](QA/6.md)
+    * [合并两个有序链表](QA/7.md)
+    * [删除排序数组中的重复项](QA/8.md)
+    * [移除元素](QA/9.md)
+    * [实现strStr()](QA/10.md)
