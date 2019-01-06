@@ -50,3 +50,25 @@
 * [旋转数组](RotateArray.md)
 * [颠倒二进制位](ReverseBits.md)
 * [位1的个数](Numberof1Bits.md)
+
+#### 2019-01-04
+1. [打家劫舍](HouseRobber.md)
+
+#### 2019-01-05
+1. [快乐数](HappyNumber.md)
+* [移除链表元素](RemoveLinkedListElements.md)
+* [计数质数](CountPrimes.md)
+* [同构字符串](IsomorphicStrings.md)
+* [反转链表](ReverseLinkedList.md)
+* [存在重复元素](ContainsDuplicate.md)
+* [存在重复元素 II](ContainsDuplicateII.md)
+* [用队列实现栈](ImplementStackusingQueues.md)
+* [翻转二叉树](InvertBinaryTree.md)
+* [2的幂](PowerofTwo.md)
+
+#### 2019-01-06
+1. [用栈实现队列](ImplementQueueusingStacks.md)
+* [回文链表](PalindromeLinkedList.md)
+* [二叉搜索树的最近公共祖先](LowestCommonAncestorofaBinarySearchTree.md)
+* [删除链表中的节点](DeleteNodeinaLinkedList.md)
+* [有效的字母异位词](ValidAnagram.md)

@@ -25,7 +25,7 @@ function getAll(eles) {
 	return eles.map((ele, index) => [ele.num, `[${ele.name}](${ele.href} "${ele.eName}")`, `[${ele.eName}](QA/${ele.eName}.md)`, ele.passRate].join('\t|\t')).join('\n')
 }
 
-var current = getCurrent(links, 1, 70)
+var current = getCurrent(links, 71, 20)
 
 var summary = getSummary(current.links, current.start)
 var data = current.links.map(({link}) => `# [${link.innerText}](${link.href})`).join('\n')
