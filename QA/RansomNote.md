@@ -1,0 +1,1 @@
+# [赎金信](https://leetcode-cn.com/problems/ransom-note)

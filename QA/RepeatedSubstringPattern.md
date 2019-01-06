@@ -1,0 +1,1 @@
+# [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern)

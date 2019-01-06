@@ -1,0 +1,1 @@
+# [交换工资](https://leetcode-cn.com/problems/swap-salary)

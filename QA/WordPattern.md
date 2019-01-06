@@ -1,0 +1,1 @@
+# [单词模式](https://leetcode-cn.com/problems/word-pattern)
