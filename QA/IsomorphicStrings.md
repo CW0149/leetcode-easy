@@ -54,3 +54,7 @@ var isIsomorphic = function(s, t) {
     return true;
 };
 ```
+
+### Tips
+
+同[单词模式](WordPattern.md)

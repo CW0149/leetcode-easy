@@ -72,3 +72,11 @@
 * [二叉搜索树的最近公共祖先](LowestCommonAncestorofaBinarySearchTree.md)
 * [删除链表中的节点](DeleteNodeinaLinkedList.md)
 * [有效的字母异位词](ValidAnagram.md)
+* [二叉树的所有路径](BinaryTreePaths.md)
+* [各位相加](AddDigits.md)
+* [丑数](UglyNumber.md)
+* [缺失数字](MissingNumber.md)
+* [第一个错误的版本](FirstBadVersion.md)
+* [移动零](MoveZeroes.md)
+* [单词模式](WordPattern.md)
+

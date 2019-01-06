@@ -20,3 +20,31 @@
 你的算法应具有线性时间复杂度。你能否仅使用额外常数空间来实现?
 
 ### 解答
+
+```
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+
+解法一：
+var missingNumber = function(nums) {
+    var sum = 0;
+    for (var i = 0; i < nums.length; i += 1) {
+        sum += nums[i];
+    }
+    return (1 + nums.length) * nums.length / 2 - sum;
+};
+
+解法二：
+var missingNumber = function(nums) {
+    var len = nums.length;
+    var count = 0;
+
+    for (var i = 0; i<=len; i++) {
+        count  ^=  i ^ nums[i]
+    }
+
+    return count
+};
+```
