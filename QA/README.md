@@ -79,4 +79,23 @@
 * [第一个错误的版本](FirstBadVersion.md)
 * [移动零](MoveZeroes.md)
 * [单词模式](WordPattern.md)
+* [Nim游戏](NimGame.md)
+* [区域和检索 - 数组不可变](RangeSumQueryImmutable.md)
+* [3的幂](PowerofThree.md)
+* [4的幂](PowerofFour.md)
+* [反转字符串](ReverseString.md)
+* [反转字符串中的元音字母](ReverseVowelsofaString.md)
+* [两个数组的交集](IntersectionofTwoArrays.md)
+* [两个数组的交集 II](IntersectionofTwoArraysII.md)
+
+#### 2019-01-07
+1. [有效的完全平方数](ValidPerfectSquare.md)
+* [两整数之和](SumofTwoIntegers.md)
+
+#### 2019-01-17
+1. [猜数字大小](GuessNumberHigherorLower.md)
+* [赎金信](RansomNote.md)
+* [字符串中的第一个唯一字符](FirstUniqueCharacterinaString.md)
+* [找不同](FindtheDifference.md)
+* [第N个数字](NthDigit.md)
 

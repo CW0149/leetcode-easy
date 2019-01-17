@@ -16,21 +16,26 @@ function getCurrent(links, start = 1, times) {
 		 start
 	}
 }
+function getSummaryRef(links) {
+	return links.map(({link, eName}, index) => {
+		return `	* [${link.innerText}](QA/${eName}.md#${link.href})`
+	}).join('\n')
+}
 function getSummary(links) {
 	return links.map(({link, eName}, index) => {
-		return `	* [${link.innerText}](QA/${eName}.md)`
+		return `	* [${link.innerText}](QA/${eName}.md`
 	}).join('\n')
 }
 function getAll(eles) {
 	return eles.map((ele, index) => [ele.num, `[${ele.name}](${ele.href} "${ele.eName}")`, `[${ele.eName}](QA/${ele.eName}.md)`, ele.passRate].join('\t|\t')).join('\n')
 }
 
-var current = getCurrent(links, 91)
+var current = getCurrent(links, 1)
 
+var summaryRef = getSummaryRef(current.links, current.start)
 var summary = getSummary(current.links, current.start)
 var data = current.links.map(({link}) => `# [${link.innerText}](${link.href})`).join('\n')
 var dataArr = current.links.map(({link}) => `# [${link.innerText}](${link.href})`)
 var all = getAll(eles)
 
 console.log(summary)
-console.log(data)

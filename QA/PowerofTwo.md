@@ -43,3 +43,7 @@ var isPowerOfTwo = function(n) {
 ```
 资料：
 * [n & (n - 1)](https://stackoverflow.com/questions/4678333/n-n-1-what-does-this-expression-do)
+
+### Tips
+* [3的幂](PowerofThree)
+* [4的幂](PowerofFour)
