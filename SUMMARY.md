@@ -2,7 +2,7 @@
 
 * [介绍](README.md)
 * [题目列表](all.md)
-* [编程](QA/README.md)
+* [算法](QA/README.md)
     * [两数之和](QA/TwoSum.md)
     * [整数反转](QA/ReverseInteger.md)
     * [回文数](QA/PalindromeNumber.md)
@@ -115,6 +115,8 @@
     * [最大连续1的个数](QA/MaxConsecutiveOnes.md)
     * [构造矩形](QA/ConstructtheRectangle.md)
     * [下一个更大元素 I](QA/NextGreaterElementI.md)
+    * [下一个更大元素 II](QA/NextGreaterElementII.md)
+    * [下一个更大元素 III](QA/NextGreaterElementIII.md)
     * [键盘行](QA/KeyboardRow.md)
     * [二叉搜索树中的众数](QA/FindModeinBinarySearchTree.md)
     * [七进制数](QA/Base7.md)
