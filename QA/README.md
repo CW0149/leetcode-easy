@@ -134,11 +134,11 @@
 
 #### 2019-01-22
 1. [供暖器](Heaters.md)
-* [密钥格式化](QA/LicenseKeyFormatting.md)
-* [键盘行](QA/KeyboardRow.md)
-* [二叉搜索树中的众数](QA/FindModeinBinarySearchTree.md)
-* [七进制数](QA/Base7.md)
-* [相对名次](QA/RelativeRanks.md)
-* [完美数](QA/PerfectNumber.md)
-* [检测大写字母](QA/DetectCapital.md)
+* [密钥格式化](LicenseKeyFormatting.md)
+* [键盘行](KeyboardRow.md)
+* [二叉搜索树中的众数](FindModeinBinarySearchTree.md)
+* [七进制数](Base7.md)
+* [相对名次](RelativeRanks.md)
+* [完美数](PerfectNumber.md)
+* [检测大写字母](DetectCapital.md)
 
