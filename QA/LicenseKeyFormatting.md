@@ -53,11 +53,11 @@ var licenseKeyFormatting = function(S, K) {
     return res;
 };
 
-解法二：执行超时
+解法二：
 var licenseKeyFormatting = function(S, K) {
     var str = S.replace(/-/g, '').toUpperCase();
-    var reg = new RegExp(`(\\w{1,${K}})(?=(?:\\w{${K}})+$)`, 'g');
-    return str.replace(reg,'$1-');
+    var reg = new RegExp(`(?<=\\w)(?=(?:\\w{${K}})+$)`, 'g');
+    return str.replace(reg,'-');
 };
 
 解法三：
