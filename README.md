@@ -4,7 +4,7 @@
 查看[所有题目](all.md)。
 
 已更新列表：
-* [编程](QA/README.md)
+* [算法](QA/README.md)
     1. [两数之和](QA/TwoSum.md)
     * [整数反转](QA/ReverseInteger.md)
     * [回文数](QA/PalindromeNumber.md)
@@ -125,6 +125,14 @@
     * [相对名次](QA/RelativeRanks.md)
     * [完美数](QA/PerfectNumber.md)
     * [检测大写字母](QA/DetectCapital.md)
+    * [最长特殊序列 Ⅰ](QA/LongestUncommonSubsequenceI.md)
+    * [二叉搜索树的最小绝对差](QA/MinimumAbsoluteDifferenceinBST.md)
+    * [数组中的K-diff数对](QA/KdiffPairsinanArray.md)
+    * [把二叉搜索树转换为累加树](QA/ConvertBSTtoGreaterTree.md)
+    * [反转字符串 II](QA/ReverseStringII.md)
+    * [二叉树的直径](QA/DiameterofBinaryTree.md)
+    * [学生出勤记录 I](QA/StudentAttendanceRecordI.md)
+    * [反转字符串中的单词 III](QA/ReverseWordsinaStringIII.md)
 * [数据库](QA/MYSQL.md)
     1. [组合两个表](QA/CombineTwoTables.md)
     * [第二高的薪水](QA/SecondHighestSalary.md)

@@ -142,3 +142,23 @@
 * [完美数](PerfectNumber.md)
 * [检测大写字母](DetectCapital.md)
 
+#### 2019-01-23
+1. [最长特殊序列 Ⅰ](LongestUncommonSubsequenceI.md)
+* [二叉搜索树的最小绝对差](MinimumAbsoluteDifferenceinBST.md)
+* [数组中的K-diff数对](KdiffPairsinanArray.md)
+* [把二叉搜索树转换为累加树](ConvertBSTtoGreaterTree.md)
+* [反转字符串 II](ReverseStringII.md)
+* [二叉树的直径](DiameterofBinaryTree.md)
+* [学生出勤记录 I](StudentAttendanceRecordI.md)
+* [反转字符串中的单词 III](ReverseWordsinaStringIII.md)
+
+#### 2019-01-24
+1. [四叉树交集](QuadTreeIntersection.md)
+* [N叉树的最大深度](MaximumDepthofNaryTree.md)
+* [数组拆分 I](ArrayPartitionI.md)
+* [二叉树的坡度](BinaryTreeTilt.md)
+* [重塑矩阵](ReshapetheMatrix.md)
+* [另一个树的子树](SubtreeofAnotherTree.md)
+* [分糖果](DistributeCandies.md)
+* [最短无序连续子数组](ShortestUnsortedContinuousSubarray.md)
+
