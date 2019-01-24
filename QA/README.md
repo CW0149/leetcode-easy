@@ -162,3 +162,125 @@
 * [分糖果](DistributeCandies.md)
 * [最短无序连续子数组](ShortestUnsortedContinuousSubarray.md)
 
+#### 2019-01-25
+1. [N叉树的前序遍历](NaryTreePreorderTraversal.md)
+* [N叉树的后序遍历](NaryTreePostorderTraversal.md)
+* [最长和谐子序列](LongestHarmoniousSubsequence.md)
+* [范围求和 II](RangeAdditionII.md)
+* [两个列表的最小索引总和](MinimumIndexSumofTwoLists.md)
+* [种花问题](CanPlaceFlowers.md)
+* [根据二叉树创建字符串](ConstructStringfromBinaryTree.md)
+* [合并二叉树](MergeTwoBinaryTrees.md)
+
+#### 2019-01-26
+1. [三个数的最大乘积](MaximumProductofThreeNumbers.md)
+* [平方数之和](SumofSquareNumbers.md)
+* [二叉树的层平均值](AverageofLevelsinBinaryTree.md)
+* [子数组最大平均数 I](MaximumAverageSubarrayI.md)
+* [错误的集合](SetMismatch.md)
+* [两数之和 IV - 输入 BST](TwoSumIVInputisaBST.md)
+* [机器人能否返回原点](RobotReturntoOrigin.md)
+* [图片平滑器](ImageSmoother.md)
+
+#### 2019-01-27
+1. [非递减数列](NondecreasingArray.md)
+* [修剪二叉搜索树](TrimaBinarySearchTree.md)
+* [二叉树中第二小的节点](SecondMinimumNodeInaBinaryTree.md)
+* [最长连续递增序列](LongestContinuousIncreasingSubsequence.md)
+* [验证回文字符串 Ⅱ](ValidPalindromeII.md)
+* [棒球比赛](BaseballGame.md)
+* [重复叠加字符串匹配](RepeatedStringMatch.md)
+* [最长同值路径](LongestUnivaluePath.md)
+
+#### 2019-01-28
+1. [员工的重要性](EmployeeImportance.md)
+* [交替位二进制数](BinaryNumberwithAlternatingBits.md)
+* [计数二进制子串](CountBinarySubstrings.md)
+* [数组的度](DegreeofanArray.md)
+* [二叉搜索树中的搜索](SearchinaBinarySearchTree.md)
+* [数据流中的第K大元素](KthLargestElementinaStream.md)
+* [二分查找](BinarySearch.md)
+* [设计哈希集合](DesignHashSet.md)
+
+#### 2019-01-29
+1. [设计哈希映射](DesignHashMap.md)
+* [设计链表](DesignLinkedList.md)
+* [转换成小写字母](ToLowerCase.md)
+* [1比特与2比特字符](1bitand2bitCharacters.md)
+* [词典中最长的单词](LongestWordinDictionary.md)
+* [寻找数组的中心索引](FindPivotIndex.md)
+* [自除数](SelfDividingNumbers.md)
+* [图像渲染](FloodFill.md)
+
+#### 2019-01-30
+1. [网络延迟时间](NetworkDelayTime.md)
+* [寻找比目标字母大的最小字母](FindSmallestLetterGreaterThanTarget.md)
+* [使用最小花费爬楼梯](MinCostClimbingStairs.md)
+* [至少是其他数字两倍的最大数](LargestNumberAtLeastTwiceofOthers.md)
+* [最短完整词](ShortestCompletingWord.md)
+* [到达终点数字](ReachaNumber.md)
+* [二进制表示中质数个计算置位](PrimeNumberofSetBitsinBinaryRepresentation.md)
+* [托普利茨矩阵](ToeplitzMatrix.md)
+
+#### 2019-01-31
+1. [宝石与石头](JewelsandStones.md)
+* [二叉搜索树结点最小距离](MinimumDistanceBetweenBSTNodes.md)
+* [字母大小写全排列](LetterCasePermutation.md)
+* [旋转数字](RotatedDigits.md)
+* [旋转字符串](RotateString.md)
+* [唯一摩尔斯密码词](UniqueMorseCodeWords.md)
+* [写字符串需要的行数](NumberofLinesToWriteString.md)
+* [子域名访问计数](SubdomainVisitCount.md)
+
+#### 2019-02-01
+1. [最大三角形面积](LargestTriangleArea.md)
+* [最常见的单词](MostCommonWord.md)
+* [字符的最短距离](ShortestDistancetoaCharacter.md)
+* [山羊拉丁文](GoatLatin.md)
+* [较大分组的位置](PositionsofLargeGroups.md)
+* [翻转图像](FlippinganImage.md)
+* [矩形重叠](RectangleOverlap.md)
+* [矩阵中的幻方](MagicSquaresInGrid.md)
+
+#### 2019-02-02
+1. [比较含退格的字符串](BackspaceStringCompare.md)
+* [到最近的人的最大距离](MaximizeDistancetoClosestPerson.md)
+* [山脉数组的峰顶索引](PeakIndexinaMountainArray.md)
+* [亲密字符串](BuddyStrings.md)
+* [柠檬水找零](LemonadeChange.md)
+* [转置矩阵](TransposeMatrix.md)
+* [二进制间距](BinaryGap.md)
+* [叶子相似的树](LeafSimilarTrees.md)
+
+#### 2019-02-03
+1. [模拟行走机器人](WalkingRobotSimulation.md)
+* [链表的中间结点](MiddleoftheLinkedList.md)
+* [三维形体投影面积](ProjectionAreaof3DShapes.md)
+* [两句话中的不常见单词](UncommonWordsfromTwoSentences.md)
+* [公平的糖果交换](FairCandySwap.md)
+* [三维形体的表面积](SurfaceAreaof3DShapes.md)
+* [特殊等价字符串组](GroupsofSpecialEquivalentStrings.md)
+* [单调数列](MonotonicArray.md)
+
+#### 2019-02-04
+1. [递增顺序查找树](IncreasingOrderSearchTree.md)
+* [按奇偶排序数组](SortArrayByParity.md)
+* [最小差值 I](SmallestRangeI.md)
+* [卡牌分组](XofaKindinaDeckofCards.md)
+* [仅仅反转字母](ReverseOnlyLetters.md)
+* [按奇偶排序数组 II](SortArrayByParityII.md)
+* [长按键入](LongPressedName.md)
+* [独特的电子邮件地址](UniqueEmailAddresses.md)
+
+#### 2019-02-05
+1. [最近的请求次数](NumberofRecentCalls.md)
+* [重新排列日志文件](ReorderLogFiles.md)
+* [有效的山脉数组](ValidMountainArray.md)
+* [增减字符串匹配](DIStringMatch.md)
+* [删列造序](DeleteColumnstoMakeSorted.md)
+* [给定数字能组成的最大时间](LargestTimeforGivenDigits.md)
+* [验证外星语词典](VerifyinganAlienDictionary.md)
+* [重复 N 次的元素](NRepeatedElementinSize2NArray.md)
+
+#### 2019-02-06
+1. [单值二叉树](UnivaluedBinaryTree.md)
