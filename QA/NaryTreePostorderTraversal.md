@@ -44,4 +44,31 @@ class Solution(object):
         traverse(root)
         return list
 
+// 迭代解法
+class Solution(object):
+    def postorder(self, root):
+        """
+        :type root: Node
+        :rtype: List[int]
+        """
+        if root is None:
+            return []
+        stack = [root]
+        list = []
+        while len(stack):
+            while len(stack[-1].children) and not hasattr(stack[-1], 'flag'):
+                node = stack[-1]
+                for child in node.children[::-1]:
+                    stack.append(child)
+                node.flag = 1
+            node1 = stack.pop()
+            list.append(node1.val)
+            if hasattr(node1, 'flag'):
+                del node1.flag
+        return list
 ```
+
+
+### 相关
+
+[二叉树后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)

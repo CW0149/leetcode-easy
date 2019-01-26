@@ -38,4 +38,26 @@ class Solution(object):
 
         traverse(root)
         return list
+
+使用迭代法：
+class Solution(object):
+    def preorder(self, root):
+        """
+        :type root: Node
+        :rtype: List[int]
+        """
+        if not root:
+            return []
+        stack = [root]
+        list = []
+        while len(stack):
+            node = stack.pop()
+            list.append(node.val)
+            for child in node.children[::-1]:
+                stack.append(child)
+        return list
 ```
+
+### 相关
+
+[二叉树前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
