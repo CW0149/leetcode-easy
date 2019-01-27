@@ -1,5 +1,5 @@
 # [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst)
-2019-01-23
+
 ### 问题
 
 给定一个所有节点为非负值的二叉搜索树，求树中任意两节点的差的绝对值的最小值。

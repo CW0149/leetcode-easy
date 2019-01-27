@@ -1,5 +1,4 @@
 # [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i)
-2019-01-24
 
 ### 问题
 

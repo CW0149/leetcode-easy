@@ -1,5 +1,4 @@
 # [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz)
-2019-01-17
 
 ### 问题
 

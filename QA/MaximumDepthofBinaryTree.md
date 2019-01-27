@@ -1,5 +1,5 @@
 # [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)
-2019-01-02
+
 ### 问题
 
 给定一个二叉树，找出其最大深度。

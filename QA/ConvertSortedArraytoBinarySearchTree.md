@@ -1,5 +1,5 @@
 # [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree)
-2019-01-02
+
 ### 问题
 
 将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树。

@@ -1,5 +1,4 @@
 # [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i)
-2019-01-21
 
 ### 问题
 

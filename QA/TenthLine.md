@@ -1,5 +1,5 @@
 # [第十行](https://leetcode-cn.com/problems/tenth-line)
-2019-01-04
+
 ### 问题
 
 给定一个文本文件 file.txt，请只打印这个文件中的第十行。

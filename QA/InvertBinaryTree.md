@@ -1,5 +1,5 @@
 # [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree)
-2019-01-05
+
 ### 问题
 
 翻转一棵二叉树。

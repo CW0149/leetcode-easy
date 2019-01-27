@@ -1,5 +1,5 @@
 # [旋转数组](https://leetcode-cn.com/problems/rotate-array)
-2019-01-03
+
 ### 问题
 
 给定一个数组，将数组中的元素向右移动 k 个位置，其中 k 是非负数。

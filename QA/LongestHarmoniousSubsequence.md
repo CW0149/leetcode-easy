@@ -1,5 +1,5 @@
 # [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence)
-2019-01-25
+
 ### 问题
 
 和谐数组是指一个数组里元素的最大值和最小值之间的差别正好是1。

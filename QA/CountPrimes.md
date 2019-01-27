@@ -1,5 +1,5 @@
 # [计数质数](https://leetcode-cn.com/problems/count-primes)
-2019-01-05
+
 ### 问题
 
 统计所有小于非负整数 n 的质数的数量。

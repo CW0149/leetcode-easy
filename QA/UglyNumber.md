@@ -1,5 +1,5 @@
 # [丑数](https://leetcode-cn.com/problems/ugly-number)
-2019-01-06
+
 ### 问题
 
 编写一个程序判断给定的数是否为丑数。

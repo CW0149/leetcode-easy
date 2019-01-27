@@ -1,5 +1,5 @@
 # [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word)
-2019-01-02
+
 ### 问题
 
 给定一个仅包含大小写字母和空格 ' ' 的字符串，返回其最后一个单词的长度。

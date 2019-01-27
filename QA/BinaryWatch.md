@@ -1,5 +1,5 @@
 # [二进制手表](https://leetcode-cn.com/problems/binary-watch)
-2019-01-17
+
 ### 问题
 
 二进制手表顶部有 4 个 LED 代表小时（0-11），底部的 6 个 LED 代表分钟（0-59）。

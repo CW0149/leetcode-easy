@@ -1,5 +1,5 @@
 # [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle)
-2019-01-02
+
 ### 问题
 
 给定一个非负整数 numRows，生成杨辉三角的前 numRows 行。

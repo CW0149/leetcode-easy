@@ -1,5 +1,5 @@
 # [实现strStr()](https://leetcode-cn.com/problems/implement-strstr)
-2019-01-01
+
 ### 问题
 
 实现 strStr() 函数。

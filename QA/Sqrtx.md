@@ -1,5 +1,5 @@
 # [x 的平方根](https://leetcode-cn.com/problems/sqrtx)
-2019-01-02
+
 ### 问题
 
 实现 int sqrt(int x) 函数。

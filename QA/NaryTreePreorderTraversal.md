@@ -1,5 +1,5 @@
 # [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)
-2019-01-25
+
 ### 问题
 
 给定一个 N 叉树，返回其节点值的前序遍历。

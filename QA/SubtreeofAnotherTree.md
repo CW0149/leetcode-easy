@@ -1,5 +1,4 @@
 # [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree)
-2019-01-24
 
 ### 问题
 

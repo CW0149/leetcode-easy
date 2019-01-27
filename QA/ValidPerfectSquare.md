@@ -1,5 +1,5 @@
 # [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square)
-2019-01-07
+
 ### 问题
 
 给定一个正整数 num，编写一个函数，如果 num 是一个完全平方数，则返回 True，否则返回 False。

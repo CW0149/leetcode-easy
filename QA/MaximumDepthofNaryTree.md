@@ -1,5 +1,4 @@
 # [N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree)
-2019-01-24
 
 ### 问题
 

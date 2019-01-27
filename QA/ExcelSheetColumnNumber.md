@@ -1,5 +1,5 @@
 # [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number)
-2019-01-03
+
 ### 问题
 
 给定一个Excel表格中的列名称，返回其相应的列序号。

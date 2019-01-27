@@ -1,5 +1,4 @@
 # [分糖果](https://leetcode-cn.com/problems/distribute-candies)
-2019-01-24
 
 ### 问题
 

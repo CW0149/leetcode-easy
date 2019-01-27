@@ -1,5 +1,5 @@
 # [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements)
-2019-01-05
+
 ### 问题
 
 删除链表中等于给定值 val 的所有节点。

@@ -1,5 +1,5 @@
 # [根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree)
-2019-01-25
+
 ### 问题
 
 ```

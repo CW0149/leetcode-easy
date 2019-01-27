@@ -1,5 +1,4 @@
 # [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable)
-2019-01-06
 
 ### 问题
 

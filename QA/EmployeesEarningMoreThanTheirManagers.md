@@ -1,5 +1,5 @@
 # [超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers)
-2019-01-03
+
 ### 问题
 
 Employee 表包含所有员工，他们的经理也属于员工。每个员工都有一个 Id，此外还有一列对应员工的经理的 Id。

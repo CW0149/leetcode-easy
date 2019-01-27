@@ -1,5 +1,5 @@
 # [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings)
-2019-01-05
+
 ### 问题
 
 给定两个字符串 s 和 t，判断它们是否是同构的。

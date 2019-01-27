@@ -1,5 +1,5 @@
 # [二进制求和](https://leetcode-cn.com/problems/add-binary)
-2019-01-01
+
 ### 问题
 
 实现 strStr() 函数。

@@ -1,5 +1,4 @@
 # [四叉树交集](https://leetcode-cn.com/problems/quad-tree-intersection)
-2019-01-24
 
 ### 问题
 

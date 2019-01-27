@@ -1,5 +1,5 @@
 # [三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)
-2019-01-26
+
 ### 问题
 
 给定一个整型数组，在数组中找出由三个数组成的最大乘积，并输出这个乘积。

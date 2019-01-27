@@ -1,5 +1,4 @@
 # [4的幂](https://leetcode-cn.com/problems/power-of-four)
-2019-01-06
 
 ### 问题
 

@@ -1,5 +1,5 @@
 # [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title)
-2019-01-03
+
 ### 问题
 
 给定一个正整数，返回它在 Excel 表中相对应的列名称。

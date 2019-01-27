@@ -1,5 +1,5 @@
 # [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes)
-2019-01-04
+
 ### 问题
 
 给定一个整数 n，返回 n! 结果尾数中零的数量。

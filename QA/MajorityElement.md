@@ -1,5 +1,5 @@
 # [求众数](https://leetcode-cn.com/problems/majority-element)
-2019-01-03
+
 ### 问题
 
 给定一个大小为 n 的数组，找到其中的众数。众数是指在数组中出现次数大于 ⌊ n/2 ⌋ 的元素。

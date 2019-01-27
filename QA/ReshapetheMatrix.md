@@ -1,5 +1,4 @@
 # [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix)
-2019-01-24
 
 ### 问题
 

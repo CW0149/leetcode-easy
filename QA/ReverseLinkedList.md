@@ -1,5 +1,5 @@
 # [反转链表](https://leetcode-cn.com/problems/reverse-linked-list)
-2019-01-05
+
 ### 问题
 
 反转一个单链表。

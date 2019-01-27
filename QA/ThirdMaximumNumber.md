@@ -1,5 +1,4 @@
 # [第三大的数](https://leetcode-cn.com/problems/third-maximum-number)
-2019-01-17
 
 ### 问题
 

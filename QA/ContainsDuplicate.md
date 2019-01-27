@@ -1,5 +1,5 @@
 # [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate)
-2019-01-05
+
 ### 问题
 
 给定一个整数数组，判断是否存在重复元素。

@@ -1,5 +1,5 @@
 # [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii)
-2019-01-25
+
 ### 问题
 
 给定一个初始元素全部为 0，大小为 m*n 的矩阵 M 以及在 M 上的一系列更新操作。

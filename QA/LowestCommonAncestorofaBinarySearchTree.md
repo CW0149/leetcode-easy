@@ -1,5 +1,5 @@
 # [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
-2019-01-06
+
 ### 问题
 
 给定一个[二叉搜索树](https://baike.baidu.com/item/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91), 找到该树中两个指定节点的最近公共祖先。

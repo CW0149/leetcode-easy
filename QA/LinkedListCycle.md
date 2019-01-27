@@ -1,5 +1,5 @@
 # [环形链表](https://leetcode-cn.com/problems/linked-list-cycle)
-2019-01-03
+
 ### 问题
 
 给定一个链表，判断链表中是否有环。

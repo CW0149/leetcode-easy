@@ -1,5 +1,5 @@
 # [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list)
-2019-01-06
+
 ### 问题
 
 请判断一个链表是否为回文链表。

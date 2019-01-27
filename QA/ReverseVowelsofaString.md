@@ -1,5 +1,4 @@
 # [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)
-2019-01-06
 
 ### 问题
 

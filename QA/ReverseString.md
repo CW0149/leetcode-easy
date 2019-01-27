@@ -1,5 +1,4 @@
 # [反转字符串](https://leetcode-cn.com/problems/reverse-string)
-2019-01-06
 
 ### 问题
 

@@ -1,5 +1,5 @@
 # [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks)
-2019-01-06
+
 ### 问题
 
 使用栈实现队列的下列操作：

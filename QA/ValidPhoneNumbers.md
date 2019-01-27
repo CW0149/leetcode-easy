@@ -1,5 +1,5 @@
 # [有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers)
-2019-01-03
+
 ### 问题
 
 给定一个包含电话号码列表（一行一个电话号码）的文本文件 file.txt，写一个 bash 脚本输出所有有效的电话号码。

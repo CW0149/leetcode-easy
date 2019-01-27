@@ -1,5 +1,5 @@
 # [快乐数](https://leetcode-cn.com/problems/happy-number)
-2019-01-05
+
 ### 问题
 
 编写一个算法来判断一个数是不是“快乐数”。

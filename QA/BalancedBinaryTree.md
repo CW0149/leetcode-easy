@@ -1,5 +1,5 @@
 # [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree)
-2019-01-02
+
 ### 问题
 
 给定一个二叉树，判断它是否是高度平衡的二叉树。

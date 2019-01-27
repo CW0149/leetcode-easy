@@ -1,5 +1,5 @@
 # [从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order)
-2019-01-03
+
 ### 问题
 
 某网站包含两个表，Customers 表和 Orders 表。编写一个 SQL 查询，找出所有从不订购任何东西的客户。

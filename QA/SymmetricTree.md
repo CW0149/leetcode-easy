@@ -1,5 +1,5 @@
 # [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)
-2019-01-02
+
 ### 问题
 
 给定一个二叉树，检查它是否是镜像对称的。

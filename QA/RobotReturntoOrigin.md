@@ -1,5 +1,5 @@
 # [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin)
-2019-01-26
+
 ### 问题
 
 L（左），U（上）和 D（下）。如果机器人在完成所有动作后返回原点，则返回 true。否则，返回 false。

@@ -1,5 +1,5 @@
 # [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii)
-2019-01-02
+
 ### 问题
 
 给定一个非负索引 k，其中 k ≤ 33，返回杨辉三角的第 k 行。

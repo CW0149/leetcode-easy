@@ -1,5 +1,5 @@
 # [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array)
-2019-01-18
+
 ### 问题
 
 给定一个范围在  1 ≤ a[i] ≤ n ( n = 数组大小 ) 的 整型数组，数组中的元素一些出现了两次，另一些只出现一次。
@@ -19,7 +19,7 @@
 ```
 
 
-### 答案
+### 解答
 
 ```
 /**

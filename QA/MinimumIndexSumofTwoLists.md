@@ -1,5 +1,5 @@
 # [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists)
-2019-01-25
+
 ### 问题
 
 假设Andy和Doris想在晚餐时选择一家餐厅，并且他们都有一个表示最喜爱餐厅的列表，每个餐厅的名字用字符串表示。

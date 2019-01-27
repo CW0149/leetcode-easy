@@ -1,5 +1,5 @@
 # [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves)
-2019-01-17
+
 ### 问题
 
 计算给定二叉树的所有左叶子之和。

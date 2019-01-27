@@ -1,5 +1,4 @@
 # [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones)
-2019-01-21
 
 ### 问题
 

@@ -1,5 +1,5 @@
 # [最大回文数乘积](https://leetcode-cn.com/problems/largest-palindrome-product)
-2019-01-21
+
 ### 问题
 
 你需要找到由两个 n 位数的乘积组成的最大回文数。
@@ -20,7 +20,7 @@
 
 n 的取值范围为 [1,8]。
 
-### 答案
+### 解答
 
 ```
 /**

@@ -1,5 +1,5 @@
 # [有效的括号](https://leetcode-cn.com/problems/valid-parentheses)
-2019-01-01
+
 ### 问题
 
 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。

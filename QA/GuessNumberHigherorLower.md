@@ -1,5 +1,4 @@
 # [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower)
-2019-01-17
 
 ### 问题
 

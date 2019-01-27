@@ -1,5 +1,5 @@
 # [相同的树](https://leetcode-cn.com/problems/same-tree)
-2019-01-02
+
 ### 问题
 
 给定两个二叉树，编写一个函数来检验它们是否相同。

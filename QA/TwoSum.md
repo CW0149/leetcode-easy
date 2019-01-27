@@ -1,5 +1,4 @@
 # [两数之和](https://leetcode-cn.com/problems/two-sum)
-2019-01-01
 
 ### 问题
 

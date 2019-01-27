@@ -1,5 +1,5 @@
 # [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)
-2019-01-03
+
 ### 问题
 
 编写一个程序，找到两个单链表相交的起始节点。

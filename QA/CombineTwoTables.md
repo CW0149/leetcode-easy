@@ -1,5 +1,5 @@
 # [组合两个表](https://leetcode-cn.com/problems/combine-two-tables)
-2019-01-03
+
 ### 问题
 
 表1: Person

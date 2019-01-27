@@ -1,5 +1,4 @@
 # [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays)
-2019-01-06
 
 ### 问题
 

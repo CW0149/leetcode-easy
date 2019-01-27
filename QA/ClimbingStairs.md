@@ -1,5 +1,5 @@
 # [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs)
-2019-01-02
+
 ### 问题
 
 假设你正在爬楼梯。需要 n 阶你才能到达楼顶。

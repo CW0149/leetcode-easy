@@ -1,5 +1,5 @@
 # [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits)
-2019-01-03
+
 ### 问题
 
 颠倒给定的 32 位无符号整数的二进制位。

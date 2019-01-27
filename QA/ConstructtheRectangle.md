@@ -1,5 +1,4 @@
 # [构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle)
-2019-01-21
 
 ### 问题
 
