@@ -1,6 +1,6 @@
 # 介绍
 
-这个仓库将涵盖leetcode目前所有简单题目并给出JavaScript解答。<br>
+这个仓库将涵盖leetcode目前所有简单题目并给出JavaScript解答，在leetcode上无测试用例的题目使用Python解答。<br>
 查看[所有题目](all.md)。
 
 已更新列表：
@@ -165,6 +165,22 @@
     * [棒球比赛](QA/BaseballGame.md)
     * [重复叠加字符串匹配](QA/RepeatedStringMatch.md)
     * [最长同值路径](QA/LongestUnivaluePath.md)
+    * [员工的重要性](QA/EmployeeImportance.md)
+    * [交替位二进制数](QA/BinaryNumberwithAlternatingBits.md)
+    * [计数二进制子串](QA/CountBinarySubstrings.md)
+    * [数组的度](QA/DegreeofanArray.md)
+    * [二叉搜索树中的搜索](QA/SearchinaBinarySearchTree.md)
+    * [数据流中的第K大元素](QA/KthLargestElementinaStream.md)
+    * [二分查找](QA/BinarySearch.md)
+    * [设计哈希集合](QA/DesignHashSet.md)
+    * [设计哈希映射](QA/DesignHashMap.md)
+    * [设计链表](QA/DesignLinkedList.md)
+    * [转换成小写字母](QA/ToLowerCase.md)
+    * [1比特与2比特字符](QA/1bitand2bitCharacters.md)
+    * [词典中最长的单词](QA/LongestWordinDictionary.md)
+    * [寻找数组的中心索引](QA/FindPivotIndex.md)
+    * [自除数](QA/SelfDividingNumbers.md)
+    * [图像渲染](QA/FloodFill.md)
 * [数据库](QA/MYSQL.md)
     1. [组合两个表](QA/CombineTwoTables.md)
     * [第二高的薪水](QA/SecondHighestSalary.md)
