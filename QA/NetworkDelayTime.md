@@ -1,6 +1,6 @@
 # [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time)
 
-### 问题
+### 问题*
 
 有 N 个网络节点，标记为 1 到 N。
 

@@ -261,7 +261,8 @@
 * [独特的电子邮件地址](UniqueEmailAddresses.md)
 
 #### 2019-02-01
-1. [最近的请求次数](NumberofRecentCalls.md)
+1. [网络延迟时间](QA/NetworkDelayTime.md)
+* [最近的请求次数](NumberofRecentCalls.md)
 * [重新排列日志文件](ReorderLogFiles.md)
 * [有效的山脉数组](ValidMountainArray.md)
 * [增减字符串匹配](DIStringMatch.md)
