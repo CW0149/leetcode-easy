@@ -23,7 +23,7 @@ function getSummaryRef(links) {
 }
 function getSummary(links) {
 	return links.map(({link, eName}, index) => {
-		return `	* [${link.innerText}](QA/${eName}.md`
+		return `	* [${link.innerText}](QA/${eName}.md)`
 	}).join('\n')
 }
 function getAll(eles) {

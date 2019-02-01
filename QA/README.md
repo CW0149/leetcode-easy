@@ -125,12 +125,9 @@
 #### 2019-01-21
 1. [路径总和 III](PathSumIII.md)
 * [压缩字符串](StringCompression.md)
-* [最大回文数乘积](LargestPalindromeProduct.md)
 * [最大连续1的个数](MaxConsecutiveOnes.md)
 * [构造矩形](ConstructtheRectangle.md)
 * [下一个更大元素 I](NextGreaterElementI.md)
-* [下一个更大元素 II](NextGreaterElementII.md)
-* [下一个更大元素 III](NextGreaterElementIII.md)
 
 #### 2019-01-22
 1. [供暖器](Heaters.md)
@@ -211,9 +208,6 @@
 * [寻找数组的中心索引](FindPivotIndex.md)
 * [自除数](SelfDividingNumbers.md)
 * [图像渲染](FloodFill.md)
-
-#### 2019-01-30
-1. [网络延迟时间](NetworkDelayTime.md)
 * [寻找比目标字母大的最小字母](FindSmallestLetterGreaterThanTarget.md)
 * [使用最小花费爬楼梯](MinCostClimbingStairs.md)
 * [至少是其他数字两倍的最大数](LargestNumberAtLeastTwiceofOthers.md)
@@ -222,7 +216,7 @@
 * [二进制表示中质数个计算置位](PrimeNumberofSetBitsinBinaryRepresentation.md)
 * [托普利茨矩阵](ToeplitzMatrix.md)
 
-#### 2019-01-31
+#### 2019-01-30
 1. [宝石与石头](JewelsandStones.md)
 * [二叉搜索树结点最小距离](MinimumDistanceBetweenBSTNodes.md)
 * [字母大小写全排列](LetterCasePermutation.md)
@@ -231,9 +225,7 @@
 * [唯一摩尔斯密码词](UniqueMorseCodeWords.md)
 * [写字符串需要的行数](NumberofLinesToWriteString.md)
 * [子域名访问计数](SubdomainVisitCount.md)
-
-#### 2019-02-01
-1. [最大三角形面积](LargestTriangleArea.md)
+* [最大三角形面积](LargestTriangleArea.md)
 * [最常见的单词](MostCommonWord.md)
 * [字符的最短距离](ShortestDistancetoaCharacter.md)
 * [山羊拉丁文](GoatLatin.md)
@@ -241,19 +233,17 @@
 * [翻转图像](FlippinganImage.md)
 * [矩形重叠](RectangleOverlap.md)
 * [矩阵中的幻方](MagicSquaresInGrid.md)
-
-#### 2019-02-02
-1. [比较含退格的字符串](BackspaceStringCompare.md)
+* [比较含退格的字符串](BackspaceStringCompare.md)
 * [到最近的人的最大距离](MaximizeDistancetoClosestPerson.md)
 * [山脉数组的峰顶索引](PeakIndexinaMountainArray.md)
 * [亲密字符串](BuddyStrings.md)
 * [柠檬水找零](LemonadeChange.md)
 * [转置矩阵](TransposeMatrix.md)
 * [二进制间距](BinaryGap.md)
-* [叶子相似的树](LeafSimilarTrees.md)
 
-#### 2019-02-03
-1. [模拟行走机器人](WalkingRobotSimulation.md)
+#### 2019-01-31
+1. [叶子相似的树](LeafSimilarTrees.md)
+* [模拟行走机器人](WalkingRobotSimulation.md)
 * [链表的中间结点](MiddleoftheLinkedList.md)
 * [三维形体投影面积](ProjectionAreaof3DShapes.md)
 * [两句话中的不常见单词](UncommonWordsfromTwoSentences.md)
@@ -261,9 +251,7 @@
 * [三维形体的表面积](SurfaceAreaof3DShapes.md)
 * [特殊等价字符串组](GroupsofSpecialEquivalentStrings.md)
 * [单调数列](MonotonicArray.md)
-
-#### 2019-02-04
-1. [递增顺序查找树](IncreasingOrderSearchTree.md)
+* [递增顺序查找树](IncreasingOrderSearchTree.md)
 * [按奇偶排序数组](SortArrayByParity.md)
 * [最小差值 I](SmallestRangeI.md)
 * [卡牌分组](XofaKindinaDeckofCards.md)
@@ -272,7 +260,7 @@
 * [长按键入](LongPressedName.md)
 * [独特的电子邮件地址](UniqueEmailAddresses.md)
 
-#### 2019-02-05
+#### 2019-02-01
 1. [最近的请求次数](NumberofRecentCalls.md)
 * [重新排列日志文件](ReorderLogFiles.md)
 * [有效的山脉数组](ValidMountainArray.md)
@@ -281,6 +269,10 @@
 * [给定数字能组成的最大时间](LargestTimeforGivenDigits.md)
 * [验证外星语词典](VerifyinganAlienDictionary.md)
 * [重复 N 次的元素](NRepeatedElementinSize2NArray.md)
-
-#### 2019-02-06
-1. [单值二叉树](UnivaluedBinaryTree.md)
+* [单值二叉树](UnivaluedBinaryTree.md)
+* [斐波那契数](FibonacciNumber.md)
+* [强整数](PowerfulIntegers.md)
+* [最接近原点的 K 个点](KClosestPointstoOrigin.md)
+* [三角形的最大周长](LargestPerimeterTriangle.md)
+* [有序数组的平方](SquaresofaSortedArray.md)
+* [不含 AAA 或 BBB 的字符串](StringWithoutAAAorBBB.md)
