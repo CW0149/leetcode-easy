@@ -1,7 +1,6 @@
 # Summary
 
 * [介绍](README.md)
-* [题目列表](all.md)
 * [算法](QA/README.md)
     * [两数之和](QA/TwoSum.md)
     * [整数反转](QA/ReverseInteger.md)

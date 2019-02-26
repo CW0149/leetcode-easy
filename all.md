@@ -1,5 +1,3 @@
-# 题目列表
-
 题号 | 题名 | 答案 | 通过率
 --------- | ------------- | ------------- | :-------------:
 1	|	[两数之和](https://leetcode-cn.com/problems/two-sum "TwoSum")	|	[TwoSum](QA/TwoSum.md)	|	43.7%
